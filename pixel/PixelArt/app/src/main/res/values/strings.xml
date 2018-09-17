@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PixelArt</string>
+    <string name="new_drawing">New drawing</string>
+    <string name="color_prompt">Choose a color</string>
+    <string name="Picture">Take a picture</string>
+    <string name="eroff">Eraser OFF</string>
+    <string name="eron">Eraser ON</string>
+    <string name="er">Eraser</string>
+    <string name="uer">Use eraser</string>
+    <string name="BB">Big Brush</string>
+    <string name="description">Click here to load this PixelArt drawing!</string>
+    <string name="addhint">Pick a name</string>
+    <string name="deletehint">give the name to be deleted</string>
+</resources>
